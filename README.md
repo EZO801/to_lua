@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/mntnorv/to_lua.svg)](https://travis-ci.org/mntnorv/to_lua)
 [![Gem Version](https://badge.fury.io/rb/to_lua.svg)](http://badge.fury.io/rb/to_lua)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fto_lua.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fto_lua?ref=badge_shield)
 
 # to_lua
 Serialize Ruby objects to lua tables
@@ -86,3 +87,7 @@ and the object will be serialized as a string.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fto_lua.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fto_lua?ref=badge_large)
